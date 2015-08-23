@@ -1,6 +1,10 @@
 # Facial-Expression-Recognition
 Facial Expression Recognition Using Eigenface Method in MATLAB
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 This a project for computer vision course
 
 This project aimed to recognize the facial expression captured from the front camera. It used a set of single static image with different expression labels as the training database, projected the training image to subspaces. And then it calculated out the similar face of the tested expression in the training database, and gave out the label of that face as the recognition result of captured face.
